@@ -1,8 +1,26 @@
+body{
+    margin:0;
+}
+
 h1{
     color:rgb(79, 79, 60);
     background-color: rgb(222, 222, 99);
     width:fit-content;
+    
 }
 #avanza{
     background-color: grey;
+    border:2px solid rgb(223, 40, 40);
+    width:fit-content;
+    padding-left: 10px;
+}
+
+#alya{
+    margin-left: 50px;
+    width: fit-content;
+}
+
+button{
+    padding:5px 8px;
+    margin-left:1px;
 }
