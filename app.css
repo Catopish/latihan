@@ -1,11 +1,14 @@
 body{
     margin:0;
 }
+p{
+    display: inline;
+}
 
 h1{
     color:rgb(79, 79, 60);
     background-color: rgb(222, 222, 99);
-    width:fit-content;
+    display:inline;
     
 }
 #avanza{
@@ -23,4 +26,5 @@ h1{
 button{
     padding:5px 8px;
     margin-left:1px;
+    display: block;
 }
