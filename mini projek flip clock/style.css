@@ -4,7 +4,7 @@
   height: 40vw;
   /*to make the height and width responsive*/
   width: 40vw;
-  background: url("https://i.pinimg.com/originals/c1/e5/5b/c1e55bedf5f1c5a628e1ac97a9eaf126.png") no-repeat;
+  /* background: url("https://i.pinimg.com/originals/c1/e5/5b/c1e55bedf5f1c5a628e1ac97a9eaf126.png") no-repeat; */
   /*setting our background image*/
   background-size: 100%;
 }
@@ -12,7 +12,7 @@
 #hour,
 #minute {
   position: absolute;
-  background: black;
+  background: rgb(0, 0, 0);
   border-radius: 10px;
   transform-origin: bottom;
 }
