@@ -14,3 +14,4 @@ btn.addEventListener('click',()=>{
         bagH1.style.color='orange'
     }
     bagH1.innerText=`rgb(${i},${j},${k})`
+})
