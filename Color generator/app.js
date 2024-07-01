@@ -11,7 +11,6 @@ btn.addEventListener('click',()=>{
         bagH1.style.color='white';
     }
     else{
-        bagH1.style.color='black'
+        bagH1.style.color='orange'
     }
     bagH1.innerText=`rgb(${i},${j},${k})`
-})
