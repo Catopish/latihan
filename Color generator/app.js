@@ -7,7 +7,7 @@ btn.addEventListener('click',()=>{
     let j = Math.floor(Math.random()*255);
     let k = Math.floor(Math.random()*255);
     bagbody.style.backgroundColor=`rgb(${i},${j},${k})`
-    if(i+j+k<450){
+    if(i+j+k<400){
         bagH1.style.color='white';
     }
     else{
